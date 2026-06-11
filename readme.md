@@ -10,7 +10,7 @@ project/
 ```
 
 - **bioinformatics_final.ipynb** → Main notebook
-- **BIOINFORMATICS-Project4.docx** → Full report
+- **BIOINFORMATICS-Project4.pdf** → Full report
 
 ---
 
