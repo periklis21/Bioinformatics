@@ -5,7 +5,7 @@
 ```text
 project/
 ├── bioinformatics_final.ipynb
-├── BIOINFORMATICS-Project4.docx
+├── BIOINFORMATICS-Project4.pdf
 └── README.md
 ```
 
