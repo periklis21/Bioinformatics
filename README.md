@@ -18,7 +18,7 @@ project/
 
 The sequencing reads are available on Google Drive (too large for GitHub):
 
-https://drive.google.com/drive/folders/1gN350988jEr-2mPaDmrmpbm1aFZaevA_
+https://drive.google.com/drive/folders/1gN350988jEr-2mPaDmrmpbm1aFZaevA_?usp=sharing
 
 It contains:
 
